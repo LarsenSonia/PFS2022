@@ -1,0 +1,10 @@
+console.log("Ir al supermercado");
+console.log("Comprar los ingredientes");
+console.log("Pagarlos");
+console.log("Llegar a casa y poner los ingredientes en un bowl");
+console.log("Batir la torta");
+console.log("Meter al horno");
+console.log("Retirar del horno");
+console.log("Desmoldar");
+console.log("Servir");
+console.log("Comer la torta");
