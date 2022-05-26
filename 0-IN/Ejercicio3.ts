@@ -1,0 +1,10 @@
+console.log("Abrir la aplicación Facebook");
+console.log("Loguearse");
+console.log("Acceder al muro");
+console.log("Escribir el texto a postear");
+console.log("Elegir una imagen a subir");
+console.log("Elegir el color del fondo del post");
+console.log("Etiquetar personas");
+console.log("Elegir quién puede ver la publicación");
+console.log("Añadir ubicación");
+console.log("Presionar el boton de Publicar");

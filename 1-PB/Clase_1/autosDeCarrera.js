@@ -1,0 +1,11 @@
+"use strict";
+exports.__esModule = true;
+var readlineSync = require("readline-sync");
+var tiempoVuelta1 = readlineSync.questionInt("Ingrese tiempo de vuelta 1: ");
+var tiempoVuelta2 = readlineSync.questionInt("Ingrese tiempo de vuelta 2: ");
+var tiempoVuelta3 = readlineSync.questionInt("Ingrese tiempo de vuelta 3:");
+var tiempoVuelta4 = readlineSync.questionInt("Ingrese tiempo de vuelta 4: ");
+var tiempoTotal = tiempoVuelta1 + tiempoVuelta2 + tiempoVuelta3 + tiempoVuelta4;
+console.log("Tiempo total: ", tiempoTotal);
+var tiempoPromedio = tiempoTotal / 4;
+console.log("Tiempo promedio: ", tiempoPromedio);
