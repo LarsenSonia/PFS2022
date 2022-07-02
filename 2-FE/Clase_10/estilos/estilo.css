@@ -1,0 +1,26 @@
+body {
+    background-color: aqua;
+    background-image: url(C:\Users\usuario\pfs2022\2-FE\Clase_10\Imagenes\elefante.jpg);
+}
+h1 {
+    color: black;
+    font-size:  30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+h2 {
+    color: rgb(25, 185, 226);
+    font-size:  20px;
+    font-weight: bold;
+    text-align: left;
+}
+h3 {
+    color: beige;
+    font-size:  15px;
+    font-weight: bold;
+    text-align: right;
+}
+p {
+    font-size:  20px;
+    text-align: center;
+}

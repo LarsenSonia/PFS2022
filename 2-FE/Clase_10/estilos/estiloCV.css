@@ -1,0 +1,26 @@
+div{
+    width: auto;
+    height: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 4px;
+    border-style: double;
+    border-color: hotpink;
+    background-color: aquamarine;
+    background-image: url(C:\Users\usuario\pfs2022\2-FE\Clase_10\Imagenes\elefante.jpg);
+}
+.encabezado{
+    height: 150px;
+    text-align: left;
+    color: blueviolet;    
+}
+.cuerpo{
+    height: 200px;
+    text-align: left;
+    color: brown;
+}
+.pie{
+    height: 50px;
+    text-align: left;
+    color:chocolate;
+    }

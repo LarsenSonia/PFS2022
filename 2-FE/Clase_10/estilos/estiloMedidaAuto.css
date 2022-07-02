@@ -1,0 +1,14 @@
+div.bloque1 {
+    width: 900px;                 /*ancho*/
+    margin: 0 auto;
+    border: 6px solid blue;
+}
+div.bloque2 {
+    width: auto;               /*ancho*/
+    border: 6px solid pink;
+}
+div.bloque3 {
+    width: 1000px;               /*ancho*/
+    border: 6px solid red;
+    margin: 0 auto;
+}
