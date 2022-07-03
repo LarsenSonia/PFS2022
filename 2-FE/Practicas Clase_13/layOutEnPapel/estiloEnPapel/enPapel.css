@@ -1,0 +1,110 @@
+body {
+    background-color: aqua;
+    width: 100%;
+    height: 600px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+.search {
+    background-color: goldenrod;
+    display: flex;
+    flex-direction: block;
+    justify-content: flex-end;
+    align-items: center;
+    width: 20%;
+    height: 20%;
+}
+.logoYfooter {
+    background-color: green;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    height: 20%;
+}
+.navigation {
+    display: flex;
+    background-color: grey;
+    flex-direction: row;
+    justify-content: baseline;
+    align-items: center;
+    width: 100%;
+    height: 10%;
+}
+.contenedorDe2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: burlywood;
+    width: 100%;
+    height: 50%;
+}
+.contenedorDe4en2 {     /*<!--featured y los tres-->*/
+    display: flex;
+    flex-flow: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: red;
+    width: 65%;
+    height: 100%;
+}
+.lostres {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: yellowgreen;
+    width: 100%;
+    height: 100%;
+}
+.div1 {
+    background-color: #fe346e;
+    flex-direction: row;
+    display: row;
+    align-items: center;
+    justify-content: space-around;
+    align-content: flex-end;
+    width: 40%;
+    height: 100%;
+}
+.div2 {
+    background-color: #400082;
+    width: 30%;
+    height: 100%;
+}
+.div3 {
+    background-color: #00bdaa;
+    width: 30%;    /*del padre*/
+    height: 100%;
+}
+.advertising {
+    background-color: goldenrod;
+    width: 35%;
+    height: 100%;
+}
+.featured {
+    background-color: violet;
+    display: row;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 60%;
+}
+.photo {
+    background-color: goldenrod;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    width: 20%;
+    height: 20%;
+}

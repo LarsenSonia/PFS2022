@@ -1,0 +1,25 @@
+h1 {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+h2 {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: oblique;
+}
+h3 {
+    color: green;
+    font-size: 10px;
+    font-weight: bold;
+}
+p {
+    color: coral;
+    font-size: 15px;
+    text-align: left;
+    text-align: center;
+}
+body {
+    background-color: blueviolet;
+}

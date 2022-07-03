@@ -1,0 +1,94 @@
+h1 {
+    color: navy;
+    font-size: 30px;
+    font-weight: bold;
+}
+h2 {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: oblique;
+}
+h3 {
+    color: green;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+div.encabezad {
+    display: flex;
+    width: 80% vh;
+    height: 30% vh;
+    background-color: lightblue;
+    padding: 5px;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    padding-right: 0;
+    border: 24px solid pink;
+    margin-left: 5%;
+    margin-right: 4%;
+    margin-top: 1%;
+}
+div.derech {
+    display: flex;
+    width: 60% vh;
+    height: 28%;
+    background-color: greenyellow;
+    padding: 5px;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    padding-right: 0;
+    border: 24px solid pink;
+    margin-left: 5%;
+    margin-right: 11%;
+    margin-top: 3%;
+    position: relative;
+}
+div.izquierd {
+    display: flex;
+    width: 60%;
+    height: 28%;
+    background-color: gray;
+    padding: 5px;
+    padding-bottom: 5%;
+    padding-left: 6%;
+    padding-right: 0;
+    border: 24px solid pink;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: 3%;
+    position: relative;
+}
+div.piee {
+    display: flex;
+    width: 80%;
+    height: 35%;
+    background-color: royalblue;
+    padding: 5px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    padding-right: 0;
+    border: 4px;
+    border-style: solid;
+    border-color: pink;
+    margin-left: 50px;
+    margin-right: 15px;
+    margin-top: 5px;
+}
+.pruebaSpan {
+    display: inline;
+    border: 18px red;
+    color: rebeccapurple;
+    width: 600px;
+    height: 250px;
+    background-color: royalblue;
+    padding: 5px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    padding-right: 0;
+    border-style: solid;
+    border-color: pink;
+    margin-left: 50px;
+    margin-right: 15px;
+    margin-top: 5px;
+}
